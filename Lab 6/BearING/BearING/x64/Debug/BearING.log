@@ -1,8 +1,0 @@
-﻿  BearING.cpp
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\helpers.cpp(67,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\helpers.cpp(208,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\stemmer.h(49,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\stemmer.h(93,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\stemmer.h(113,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\BearING\helpers.cpp(79): warning C4715: 'ends_with': not all control paths return a value
-  BearING.vcxproj -> C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 6\BearING\x64\Debug\BearING.exe
